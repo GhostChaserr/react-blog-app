@@ -1,0 +1,19 @@
+.header__container {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  background-color: blueviolet;
+  align-items: center;
+}
+
+.link__wrapper {
+  text-decoration: none;
+  list-style: none;
+  margin: 0 10px;
+}
+
+.link__wrapper > a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
